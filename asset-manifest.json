@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Mastermind/static/css/main.a155c8d7.chunk.css",
+    "main.js": "/Mastermind/static/js/main.6cec5432.chunk.js",
+    "main.js.map": "/Mastermind/static/js/main.6cec5432.chunk.js.map",
+    "runtime-main.js": "/Mastermind/static/js/runtime-main.1d56527a.js",
+    "runtime-main.js.map": "/Mastermind/static/js/runtime-main.1d56527a.js.map",
+    "static/js/2.d8df32c1.chunk.js": "/Mastermind/static/js/2.d8df32c1.chunk.js",
+    "static/js/2.d8df32c1.chunk.js.map": "/Mastermind/static/js/2.d8df32c1.chunk.js.map",
+    "index.html": "/Mastermind/index.html",
+    "precache-manifest.018f08956924e97d03d76b0e1f3f81b1.js": "/Mastermind/precache-manifest.018f08956924e97d03d76b0e1f3f81b1.js",
+    "service-worker.js": "/Mastermind/service-worker.js",
+    "static/css/main.a155c8d7.chunk.css.map": "/Mastermind/static/css/main.a155c8d7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d56527a.js",
+    "static/js/2.d8df32c1.chunk.js",
+    "static/css/main.a155c8d7.chunk.css",
+    "static/js/main.6cec5432.chunk.js"
+  ]
+}
